@@ -126,7 +126,7 @@ router.post('/custom/:code', async(req,res) => {
     {
         return res.render('../views/url', {
             'url': oldcustom,
-            'message' : "Sorry, this code is aleready in use, please enter a new one"
+            'message' : "Sorry, this code is already in use, please enter a new one"
     });  
     }
 

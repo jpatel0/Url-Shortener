@@ -7,7 +7,7 @@
     "server": "nodemon index.js",
     "dev": "npm run server"
   },
-  "author": "Anant Mathur",
+  "author": "NoOne",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.19.0",
