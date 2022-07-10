@@ -1,4 +1,4 @@
 {
-    "mongoURI": "mongodb://zero:zerotwo@clusterzero-shard-00-00-77wzl.mongodb.net:27017,clusterzero-shard-00-01-77wzl.mongodb.net:27017,clusterzero-shard-00-02-77wzl.mongodb.net:27017/test?ssl=true&replicaSet=ClusterZero-shard-0&authSource=admin&retryWrites=true&w=majority"
+    "mongoURI": "YOUR MONGO DB URL HERE"
 }
   
